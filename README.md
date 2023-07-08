@@ -10,4 +10,4 @@ Membuat aplikasi crop image web dengan python
 ### Form Crop Image
 ![enter image description here](https://github.com/Mochiqbalgofiru/komgraf-imgcrop-/blob/main/Hasil/upload.JPG)
 ### Result Cropped Image
-![enter image description here]()
+![enter image description here](https://github.com/Mochiqbalgofiru/komgraf-imgcrop-/blob/main/Hasil/hasil.JPG)
